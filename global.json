@@ -1,0 +1,8 @@
+{
+  "sdk": {
+    "version": "8.0.406"
+  },
+  "msbuild-sdks":{
+    "Jarvis.Copilot.Sdk": "0.1.0"
+  }
+}
